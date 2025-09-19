@@ -1,0 +1,1 @@
+Este projeto em Java foi desenvolvido como exercício de Programação Orientada a Objetos (POO), utilizando conceitos de encapsulamento, herança e polimorfismo. O objetivo é demonstrar a aplicação desses princípios em um programa funcional, estruturado e organizado.
